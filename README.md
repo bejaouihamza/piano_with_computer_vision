@@ -1,5 +1,3 @@
-
-
 # Virtual Piano Project
 
 ## Overview
@@ -28,6 +26,7 @@ This project involves creating a virtual piano that allows users to play notes u
        \]
 
        where \( A_n \) represents the amplitude of the \( n \)-th harmonic.
+
      - **Amplitude Modulation with Envelope:** An envelope function \( e(t) \) modulates the waveform:
 
        \[
@@ -47,6 +46,7 @@ This project involves creating a virtual piano that allows users to play notes u
        \]
 
        where \( h(t) \) is the filter's impulse response.
+
      - **Stereo Signal Creation:** The mono waveform is converted to stereo:
 
        \[
@@ -75,8 +75,7 @@ This project involves creating a virtual piano that allows users to play notes u
 
 ## Image
 
-![Virtual Piano Interface](images/virtual_piano_interface.png)
-
+![Virtual Piano Interface](https://github.com/bejaouihamza/piano_with_computer_vision/blob/main/Capture%20d'%C3%A9cran%202024-08-24%20041504.png)
 
 ## Future Enhancements
 
@@ -88,4 +87,4 @@ This project involves creating a virtual piano that allows users to play notes u
 
 This virtual piano project combines computer vision and sound synthesis to create an interactive musical experience. By tracking hand gestures and generating realistic piano sounds, it offers a unique way to play music using just a webcam.
 
-For more details, contact [Your Name] at [Your Email].
+For more details, contact `Bejaoui Hamza` at `bejaouihamza321@gmail.com`.
