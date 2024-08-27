@@ -87,6 +87,6 @@ This project involves creating a virtual piano that allows users to play notes u
 
 This virtual piano project combines computer vision and sound synthesis to create an interactive musical experience. By tracking hand gestures and generating realistic piano sounds, it offers a unique way to play music using just a webcam.
 
-A special mention to the [Computer Vision Zone](https://www.computervision.zone/course-list/) course and the [frre open cv course](https://opencv.org/university/free-opencv-course/), which helped me a lot in understanding and implementing the computer vision components of this project.
+A special mention to the [Computer Vision Zone](https://www.computervision.zone/course-list/) course and the [free open cv course](https://opencv.org/university/free-opencv-course/), which helped me a lot in understanding and implementing the computer vision components of this project.
 
 For more details, contact `Bejaoui Hamza` at `bejaouihamza321@gmail.com`.
